@@ -1,2 +1,2 @@
 # hello-world
-First repository, I guess?
+Hi, I'm fcSolar. I'm learning to code, I guess.
